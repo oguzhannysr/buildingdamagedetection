@@ -2,4 +2,3 @@ streamlit
 folium
 leafmap
 requests
-json
